@@ -1,0 +1,25 @@
+Interface documentation
+- login interface
+[-][Safet Reminder]The Private key cannot use request parameter
+Request
+Method | POST
+URL    | http://117.51.136.197/admin/login
+Param  | username str | pwd str
+Response
+token str | auth(Certification information)
+
+- auth interface
+Request
+Method | POST
+URL    | http://117.51.136.197/admin/auth
+Param  | username str | pwd str | token str
+Response
+url str | client download link
+
++------------------+                +----------------------+                +--------------------+
+|                  |                |                      |                |                    |
+|                  +---------------->                      +---------------->                    |
+|  Client(Linux)   |                |     Auth/Command     |                |       minion       |
+|                  <----------------+                      +<---------------+                    |
+|                  |                |                      |                |                    |
++------------------+                +----------------------+                +--------------------+

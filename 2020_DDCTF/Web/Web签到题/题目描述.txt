@@ -1,0 +1,2 @@
+请从服务端获取client，利用client获取flag
+server url:http://117.51.136.197/hint/1.txt
