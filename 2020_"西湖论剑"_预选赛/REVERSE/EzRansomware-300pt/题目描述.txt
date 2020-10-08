@@ -1,0 +1,1 @@
+内网里面一台名为DESKTOP-N5VH8PR的主机中了勒索病毒，请帮忙恢复mytext.md文件并提交里面的flag（勒索的服务器在PWN-upload_server）

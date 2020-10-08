@@ -1,0 +1,171 @@
+本程序在 2020-10-08 18:16:26 启动，开始自动储存题目!
+[+] WEB 方向当前已放出 1 道题目，开始存储!
+[!] 开始写入题目 NewUpload 的题目描述!
+[!] 题目 NewUpload 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 NewUpload 的 Hint.txt 建立成功!
+[!] 题目 NewUpload 共计有 1 个附件!
+[!] 开始存储题目 NewUpload 的第 1 个附件!
+[!] 题目 NewUpload 的第 1 个附件存储成功!
+[!] 开始写入题目 HelloDiscuzQ 的题目描述!
+[!] 题目 HelloDiscuzQ 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 HelloDiscuzQ 的 Hint.txt 建立成功!
+[!] 题目 HelloDiscuzQ 共计有 1 个附件!
+[!] 开始存储题目 HelloDiscuzQ 的第 1 个附件!
+[!] 题目 HelloDiscuzQ 的第 1 个附件存储成功!
+[!] 开始写入题目 HardXSS 的题目描述!
+[!] 题目 HardXSS 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 HardXSS 的 Hint.txt 建立成功!
+[!] 开始写入题目 FlagShop 的题目描述!
+[!] 题目 FlagShop 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 FlagShop 的 Hint.txt 建立成功!
+[!] 题目 FlagShop 共计有 1 个附件!
+[!] 开始存储题目 FlagShop 的第 1 个附件!
+[!] 题目 FlagShop 的第 1 个附件存储成功!
+[!] 开始写入题目 EasyJson 的题目描述!
+[!] 题目 EasyJson 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 EasyJson 的 Hint.txt 建立成功!
+[!] 题目 EasyJson 共计有 1 个附件!
+[!] 开始存储题目 EasyJson 的第 1 个附件!
+[!] 题目 EasyJson 的第 1 个附件存储成功!
+[+] PWN 方向当前已放出 2 道题目，开始存储!
+[!] 开始写入题目 mmutag 的题目描述!
+[!] 题目 mmutag 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 mmutag 的 Hint.txt 建立成功!
+[!] 题目 mmutag 共计有 2 个附件!
+[!] 开始存储题目 mmutag 的第 2 个附件!
+[!] 题目 mmutag 的第 1 个附件存储成功!
+[!] 开始存储题目 mmutag 的第 2 个附件!
+[!] 题目 mmutag 的第 2 个附件存储成功!
+[!] 开始写入题目 ezhttp 的题目描述!
+[!] 题目 ezhttp 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 ezhttp 的 Hint.txt 建立成功!
+[!] 题目 ezhttp 共计有 2 个附件!
+[!] 开始存储题目 ezhttp 的第 2 个附件!
+[!] 题目 ezhttp 的第 1 个附件存储成功!
+[!] 开始存储题目 ezhttp 的第 2 个附件!
+[!] 题目 ezhttp 的第 2 个附件存储成功!
+[!] 开始写入题目 managesystem 的题目描述!
+[!] 题目 managesystem 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 managesystem 的 Hint.txt 建立成功!
+[!] 题目 managesystem 共计有 2 个附件!
+[!] 开始存储题目 managesystem 的第 2 个附件!
+[!] 题目 managesystem 的第 1 个附件存储成功!
+[!] 开始存储题目 managesystem 的第 2 个附件!
+[!] 题目 managesystem 的第 2 个附件存储成功!
+[!] 开始写入题目 upload_server 的题目描述!
+[!] 题目 upload_server 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 upload_server 的 Hint.txt 建立成功!
+[!] 题目 upload_server 共计有 1 个附件!
+[!] 开始存储题目 upload_server 的第 1 个附件!
+[!] 题目 upload_server 的第 1 个附件存储成功!
+[!] 开始写入题目 noleakfmt 的题目描述!
+[!] 题目 noleakfmt 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 noleakfmt 的 Hint.txt 建立成功!
+[!] 题目 noleakfmt 共计有 2 个附件!
+[!] 开始存储题目 noleakfmt 的第 2 个附件!
+[!] 题目 noleakfmt 的第 1 个附件存储成功!
+[!] 开始存储题目 noleakfmt 的第 2 个附件!
+[!] 题目 noleakfmt 的第 2 个附件存储成功!
+[+] MISC 方向当前已放出 3 道题目，开始存储!
+[!] 开始写入题目 签到 的题目描述!
+[!] 题目 签到 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 签到 的 Hint.txt 建立成功!
+[!] 开始写入题目 Yusa_yyds 的题目描述!
+[!] 题目 Yusa_yyds 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 Yusa_yyds 的 Hint.txt 建立成功!
+[!] 题目 Yusa_yyds 共计有 1 个附件!
+[!] 开始存储题目 Yusa_yyds 的第 1 个附件!
+[!] 题目 Yusa_yyds 的第 1 个附件存储成功!
+[!] 开始写入题目 Yusapapa 的题目描述!
+[!] 题目 Yusapapa 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 Yusapapa 的 Hint.txt 建立成功!
+[!] 开始写入题目 指鹿为马 的题目描述!
+[!] 题目 指鹿为马 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 指鹿为马 的 Hint.txt 建立成功!
+[!] 开始写入题目 Barbar 的题目描述!
+[!] 题目 Barbar 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 Barbar 的 Hint.txt 建立成功!
+[!] 题目 Barbar 共计有 1 个附件!
+[!] 开始存储题目 Barbar 的第 1 个附件!
+[!] 题目 Barbar 的第 1 个附件存储成功!
+[!] 开始写入题目 问卷调查 的题目描述!
+[!] 题目 问卷调查 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 问卷调查 的 Hint.txt 建立成功!
+[+] CRYPTO 方向当前已放出 4 道题目，开始存储!
+[!] 开始写入题目 BrokenSystems 的题目描述!
+[!] 题目 BrokenSystems 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 BrokenSystems 的 Hint.txt 建立成功!
+[!] 题目 BrokenSystems 共计有 1 个附件!
+[!] 开始存储题目 BrokenSystems 的第 1 个附件!
+[!] 题目 BrokenSystems 的第 1 个附件存储成功!
+[!] 开始写入题目 CTF小白的密码系统 的题目描述!
+[!] 题目 CTF小白的密码系统 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 CTF小白的密码系统 的 Hint.txt 建立成功!
+[!] 题目 CTF小白的密码系统 共计有 2 个附件!
+[!] 开始存储题目 CTF小白的密码系统 的第 2 个附件!
+[!] 题目 CTF小白的密码系统 的第 1 个附件存储成功!
+[!] 开始存储题目 CTF小白的密码系统 的第 2 个附件!
+[!] 题目 CTF小白的密码系统 的第 2 个附件存储成功!
+[!] 开始写入题目 Wake me up until May ends 的题目描述!
+[!] 题目 Wake me up until May ends 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 Wake me up until May ends 的 Hint.txt 建立成功!
+[!] 题目 Wake me up until May ends 共计有 1 个附件!
+[!] 开始存储题目 Wake me up until May ends 的第 1 个附件!
+[!] 题目 Wake me up until May ends 的第 1 个附件存储成功!
+[+] REVERSE 方向当前已放出 5 道题目，开始存储!
+[!] 开始写入题目 Cellular 的题目描述!
+[!] 题目 Cellular 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 Cellular 的 Hint.txt 建立成功!
+[!] 题目 Cellular 共计有 1 个附件!
+[!] 开始存储题目 Cellular 的第 1 个附件!
+[!] 题目 Cellular 的第 1 个附件存储成功!
+[!] 开始写入题目 flow 的题目描述!
+[!] 题目 flow 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 flow 的 Hint.txt 建立成功!
+[!] 题目 flow 共计有 1 个附件!
+[!] 开始存储题目 flow 的第 1 个附件!
+[!] 题目 flow 的第 1 个附件存储成功!
+[!] 开始写入题目 babyre 的题目描述!
+[!] 题目 babyre 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 babyre 的 Hint.txt 建立成功!
+[!] 题目 babyre 共计有 1 个附件!
+[!] 开始存储题目 babyre 的第 1 个附件!
+[!] 题目 babyre 的第 1 个附件存储成功!
+[!] 开始写入题目 EzRansomware 的题目描述!
+[!] 题目 EzRansomware 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 EzRansomware 的 Hint.txt 建立成功!
+[!] 题目 EzRansomware 共计有 1 个附件!
+[!] 开始存储题目 EzRansomware 的第 1 个附件!
+[!] 题目 EzRansomware 的第 1 个附件存储成功!
+[!] 开始写入题目 loader 的题目描述!
+[!] 题目 loader 的题目描述写入成功!
+[!] 安恒平台使用公告形式发送 Hint ，已在当前目录下生成了 Hint.txt ，若有 Hint 请自行写入!
+[!] 题目 loader 的 Hint.txt 建立成功!
+[!] 题目 loader 共计有 1 个附件!
+[!] 开始存储题目 loader 的第 1 个附件!
+[!] 题目 loader 的第 1 个附件存储成功!
+本程序在 2020-10-08 18:16:37 成功存储了 24 道题目。
+
