@@ -1,0 +1,1 @@
+flag为满足使题目输出YES的最长输入，go程序使用golang_loader_assist恢复符号，加密过程是一系列简单的位运算

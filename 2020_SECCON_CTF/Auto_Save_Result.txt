@@ -1,0 +1,55 @@
+本程序在 2020-10-11 09:50:50 启动，开始自动储存题目!
+[!] 开始写入题目 Welcome 的题目描述!
+[!] 题目 Welcome 的题目描述写入成功!
+[!] 开始写入题目 Survey 的题目描述!
+[!] 题目 Survey 的题目描述写入成功!
+[!] 开始写入题目 pwarmup 的题目描述!
+[!] 题目 pwarmup 的题目描述写入成功!
+[!] 开始写入题目 This is RSA 的题目描述!
+[!] 题目 This is RSA 的题目描述写入成功!
+[!] 开始写入题目 Beginner's Capsule 的题目描述!
+[!] 题目 Beginner's Capsule 的题目描述写入成功!
+[!] 开始写入题目 SCSBX:Reversing 的题目描述!
+[!] 题目 SCSBX:Reversing 的题目描述写入成功!
+[!] 开始写入题目 koharu 的题目描述!
+[!] 题目 koharu 的题目描述写入成功!
+[!] 开始写入题目 Milk 的题目描述!
+[!] 题目 Milk 的题目描述写入成功!
+[!] 开始写入题目 Capsule 的题目描述!
+[!] 题目 Capsule 的题目描述写入成功!
+[!] 开始写入题目 Yet Another PySandbox 的题目描述!
+[!] 题目 Yet Another PySandbox 的题目描述写入成功!
+[!] 开始写入题目 Milk Revenge 的题目描述!
+[!] 题目 Milk Revenge 的题目描述写入成功!
+[!] 开始写入题目 urara 的题目描述!
+[!] 题目 urara 的题目描述写入成功!
+[!] 开始写入题目 lazynote 的题目描述!
+[!] 题目 lazynote 的题目描述写入成功!
+[!] 开始写入题目 Fixer 的题目描述!
+[!] 题目 Fixer 的题目描述写入成功!
+[!] 开始写入题目 sharsable 的题目描述!
+[!] 题目 sharsable 的题目描述写入成功!
+[!] 开始写入题目 WAFthrough 的题目描述!
+[!] 题目 WAFthrough 的题目描述写入成功!
+[!] 开始写入题目 Yet^2 Another PySandbox 的题目描述!
+[!] 题目 Yet^2 Another PySandbox 的题目描述写入成功!
+[!] 开始写入题目 pasta 的题目描述!
+[!] 题目 pasta 的题目描述写入成功!
+[!] 开始写入题目 crypto01 的题目描述!
+[!] 题目 crypto01 的题目描述写入成功!
+[!] 开始写入题目 kstack 的题目描述!
+[!] 题目 kstack 的题目描述写入成功!
+[!] 开始写入题目 SCSBX:Escape 的题目描述!
+[!] 题目 SCSBX:Escape 的题目描述写入成功!
+[!] 开始写入题目 CONVaaS 的题目描述!
+[!] 题目 CONVaaS 的题目描述写入成功!
+[!] 开始写入题目 pincette 的题目描述!
+[!] 题目 pincette 的题目描述写入成功!
+[!] 开始写入题目 encryptor 的题目描述!
+[!] 题目 encryptor 的题目描述写入成功!
+[!] 开始写入题目 mlml 的题目描述!
+[!] 题目 mlml 的题目描述写入成功!
+[!] 开始写入题目 kvdb 的题目描述!
+[!] 题目 kvdb 的题目描述写入成功!
+本程序在 2020-10-11 09:51:05 成功存储了 26 道题目。
+

@@ -1,0 +1,6 @@
+I'm too lazy to finish writing [my program](https://score.lmt.seccon.jp/files/lazynote.b7fa15d4106a4cd1637e6ebf42cdc2a6.tar.gz).
+```
+nc pwn-neko.chal.seccon.jp 9003
+```
+
+![](https://badge.lifememory.team/badges/64951d16-8778-4a60-b951-72a45f7b0166/probe)

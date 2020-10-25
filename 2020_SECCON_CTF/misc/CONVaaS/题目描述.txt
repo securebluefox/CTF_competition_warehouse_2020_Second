@@ -1,0 +1,8 @@
+[CONVaaS](https://score.lmt.seccon.jp/files/CONVaaS.781ef3df027ce0cbcb7771b733f8bf72.tar.gz) stands for *CONVerter as a Service*.  
+The free trial is available on:  
+
+```sh
+nc convaas.chal.seccon.jp 53440
+```
+
+![](https://badge.lifememory.team/badges/58d5683f-5685-4df0-8824-2c9a6eea3e8c/probe) ![](https://badge.lifememory.team/badges/549d0c13-1f6d-4cef-888e-a049dbc9c3e4/solve)

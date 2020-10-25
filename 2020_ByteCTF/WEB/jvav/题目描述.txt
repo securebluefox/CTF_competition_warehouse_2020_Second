@@ -1,0 +1,6 @@
+This is an elementary school level challenge.
+Environment: fmw_12.2.1.4.0_wls.jar with Apr patch@Java 1.8.0_192
+
+[https://101.200.140.238:30443](https://101.200.140.238:30443)
+[https://47.94.154.215:30443/](https://47.94.154.215:30443/)
+(If chrome shows error, just type "thisisunsafe" to bypass.)

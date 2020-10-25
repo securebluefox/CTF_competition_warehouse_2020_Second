@@ -1,0 +1,4 @@
+漏洞需要一定的用户交互，后台bot已模拟相关逻辑
+更新附件，可npm install && npm start启动；
+链接: https://r4j9ybdfv1.feishu.cn/file/boxcnyN87JKq7pNfkqTfkpRF2pg   密码: UlAo；
+用户交互为点击关闭页面按钮

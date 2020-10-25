@@ -1,0 +1,6 @@
+Do you like douyin video?
+Submit your payload at [http://c.bytectf.live:30002/](http://c.bytectf.live:30002/)
+
+> ( Server URLs which only admin can access:
+> http://a.bytectf.live:30001/
+> http://b.bytectf.live:30001/  )

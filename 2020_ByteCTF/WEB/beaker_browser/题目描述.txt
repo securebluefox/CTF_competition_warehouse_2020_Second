@@ -1,0 +1,6 @@
+用CVE-2020-12079攻击后台bot吧，将你的URL提交到：[http://123.57.90.190:30500/code.php](http://123.57.90.190:30500/code.php)  ，尝试获取bot的shell。 源码参考：[https://github.com/beakerbrowser/beaker/commit/7206281e786c9a7628d294d5440881f0a70a9837](https://github.com/beakerbrowser/beaker/commit/7206281e786c9a7628d294d5440881f0a70a9837)
+
+附件链接: [https://pan.baidu.com/s/1Fj7YC9LboL7HYIqSa5RtxA](https://pan.baidu.com/s/1Fj7YC9LboL7HYIqSa5RtxA)  密码: 1gfg
+备用下载：[https://drive.google.com/drive/folders/1dTt67THeG_D0WEL2ZXvo93zyIJ5CUCYj?usp=sharing](https://drive.google.com/drive/folders/1dTt67THeG_D0WEL2ZXvo93zyIJ5CUCYj?usp=sharing)
+
+备用提交链接：[http://39.102.60.253:30500/code.php](http://39.102.60.253:30500/code.php)

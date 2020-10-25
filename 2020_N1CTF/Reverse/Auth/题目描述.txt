@@ -1,0 +1,5 @@
+This must be the most contrived challenge I've ever created...
+
+nc 8.210.115.106 13337
+
+Challenge link

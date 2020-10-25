@@ -1,0 +1,4 @@
+Welcome to ByteCTF private file sharing server. Notice that this is not a web challenge.
+
+[http://182.92.4.49:30080](http://182.92.4.49:30080)
+[http://123.57.66.79:30080](http://123.57.66.79:30080)

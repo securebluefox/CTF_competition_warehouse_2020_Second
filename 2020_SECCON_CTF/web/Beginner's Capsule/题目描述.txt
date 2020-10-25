@@ -1,0 +1,7 @@
+Genre: Web+Misc
+
+https://beginners-capsule.chal.seccon.jp/
+
+[beginners_capsule.tar.gz](https://score.lmt.seccon.jp/files/beginners_capsule.e611bbff2c947e9a817c6471ec3fc140.tar.gz)
+
+![](https://badge.lifememory.team/badges/529dbddb-901e-4bdf-adff-ac51f10cf79a/probe)

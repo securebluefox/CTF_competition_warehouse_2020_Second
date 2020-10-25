@@ -1,0 +1,8 @@
+It's no use crying over spilt milk, but we resolved it by releasing another Milk :)
+
+https://milk-revenge.chal.seccon.jp/
+
+The crawler of this service is [crawl.js](https://score.lmt.seccon.jp/files/crawl.539d6299a6f2b928549ba78da29fddf2.js).
+
+We expect you don't have to read this, but the source code of the new service is available at [milk-revenge.tar.gz](https://score.lmt.seccon.jp/files/milk-revenge.5bc4dbf1b7e130501235312d7cb76466.tar.gz).
+

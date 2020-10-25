@@ -1,0 +1,42 @@
+本程序在 2020-10-24 09:58:34 启动，开始自动储存题目!
+PWN 方向新增题目 logger !
+Crypto 方向新增题目 2EM !
+Misc 方向新增题目 机密的图纸 !
+Reverse 方向新增题目 5G !
+Web 方向新增题目 签到 !
+Web 方向新增题目 SimpleCalculator !
+本程序在 2020-10-24 09:58:35 成功存储了 6 道题目。
+
+本程序在 2020-10-24 12:58:30 启动，开始自动储存题目!
+PWN 方向新增题目 foo !
+PWN 方向新增题目 logger !
+Crypto 方向新增题目 Signsystem !
+Crypto 方向新增题目 2EM !
+Misc 方向新增题目 EEE !
+Misc 方向新增题目 机密的图纸 !
+Reverse 方向新增题目 gocrypt !
+Reverse 方向新增题目 5G !
+Reverse 方向新增题目 backdoor !
+Web 方向新增题目 签到 !
+Web 方向新增题目 SimpleCalculator !
+Web 方向新增题目 SQLManager !
+本程序在 2020-10-24 12:58:31 成功存储了 12 道题目。
+
+本程序在 2020-10-24 14:20:23 启动，开始自动储存题目!
+PWN 方向新增题目 foo !
+PWN 方向新增题目 logger !
+Crypto 方向新增题目 Signsystem !
+Crypto 方向新增题目 dislogAgain !
+Crypto 方向新增题目 2EM !
+Misc 方向新增题目 EEE !
+Misc 方向新增题目 机密的图纸 !
+Reverse 方向新增题目 vm_protector !
+Reverse 方向新增题目 gocrypt !
+Reverse 方向新增题目 5G !
+Reverse 方向新增题目 backdoor !
+Web 方向新增题目 签到 !
+Web 方向新增题目 easyphp !
+Web 方向新增题目 SimpleCalculator !
+Web 方向新增题目 SQLManager !
+本程序在 2020-10-24 14:20:24 成功存储了 15 道题目。
+

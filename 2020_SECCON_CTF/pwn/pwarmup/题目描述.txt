@@ -1,0 +1,6 @@
+Welcome to [Pwn Warmup](https://score.lmt.seccon.jp/files/pwarmup.7fadc5ed305688a8144d076c54c64b6a.tar.gz)!
+```
+nc pwn-neko.chal.seccon.jp 9001
+```
+
+![](https://badge.lifememory.team/badges/20e4ba25-7dc4-4323-8be2-2567da2237fc/probe)

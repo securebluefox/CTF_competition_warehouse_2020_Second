@@ -1,0 +1,3 @@
+2020 ByteCTF 初赛问卷调研，填写完领取flag
+
+[https://docs.google.com/forms/d/e/1FAIpQLSfywaRSNkCAes3yY7-NdyL_bI7Y9cIw80AKDoMgGISgvAK-fA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfywaRSNkCAes3yY7-NdyL_bI7Y9cIw80AKDoMgGISgvAK-fA/viewform?usp=sf_link)

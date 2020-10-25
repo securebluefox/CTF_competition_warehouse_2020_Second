@@ -1,0 +1,4 @@
+[SecCon SandBoX](https://score.lmt.seccon.jp/files/SCSBX_Reversing.fe20c978d29094d28e347ef7d965ad9c.tar.gz) is an open-sourced virtual machine!
+```
+./scsbx seccon.bin
+```

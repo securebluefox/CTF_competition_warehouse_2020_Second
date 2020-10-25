@@ -1,0 +1,6 @@
+[Stack](https://score.lmt.seccon.jp/files/kstack.80da39cf379e98884be9c02889575868.tar.gz) is one of the most fundamental data structure.
+```
+nc pwn-inu.chal.seccon.jp 9002
+```
+
+![](https://badge.lifememory.team/badges/e68e0c21-a22d-44bb-860c-316d48dc7890/probe)

@@ -1,0 +1,7 @@
+Genre: Web+Misc
+
+https://capsule.chal.seccon.jp/
+
+[capsule.tar.gz](https://score.lmt.seccon.jp/files/capsule.a5e9040f3b40bfd55d4d7fa0c44599bb.tar.gz)
+
+![](https://badge.lifememory.team/badges/6f55544d-af5c-4dc2-a638-64ee7e64ab91/probe)

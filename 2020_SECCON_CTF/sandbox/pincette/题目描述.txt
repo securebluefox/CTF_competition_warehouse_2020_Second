@@ -1,0 +1,5 @@
+`pincette.chal.seccon.jp:10000`
+
+[pincette.tgz](https://score.lmt.seccon.jp/files/pincette.bace2f7bc55ffe6ea00bf8ce34631104.tgz)
+
+![](https://badge.lifememory.team/badges/a4588126-9a55-46d7-b0b2-898c406d2be1/probe) ![](https://badge.lifememory.team/badges/10a1aae8-9d97-42ce-a05c-9f40461ccafb/solve)

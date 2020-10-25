@@ -1,0 +1,3 @@
+Have you learned pci device?
+
+ssh pwn:pwn 8.210.166.195

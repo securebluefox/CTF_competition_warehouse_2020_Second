@@ -1,0 +1,4 @@
+双倍的快乐
+
+Server IP: 182.92.4.49 Port: 30888
+(Backup Server IP: 123.57.66.79 Port: 30888)

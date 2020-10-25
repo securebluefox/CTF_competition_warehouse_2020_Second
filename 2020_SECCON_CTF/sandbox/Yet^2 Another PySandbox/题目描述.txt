@@ -1,0 +1,7 @@
+hahaha, endless, YET YET ANOTHER python sandbox challenge!
+
+`nc py-sandbox.chal.seccon.jp 30003`
+
+[run.py](https://score.lmt.seccon.jp/files/run.66775ba8d949221aca19ab8912ae2f32.py)
+
+![](https://badge.lifememory.team/badges/944c7c4e-d76f-42af-8164-772d9243ab02/probe)

@@ -1,0 +1,10 @@
+Did you find the vulnerability in [SecCon SandBoX](https://score.lmt.seccon.jp/files/SCSBX_Escape.b3402e7db405eb29cdb417fc46609630.tar.gz)?
+```
+nc pwn-neko.chal.seccon.jp 19001
+```
+
+<small>* The attachment includes the libc binary. Check `SCSBX:Reversing` for the source code.</small>
+
+**PoW solver is added (UTC 10/10 20:17)**
+
+![](https://badge.lifememory.team/badges/7fcafdef-46da-4f0b-8a3c-32958f05dfd2/probe)

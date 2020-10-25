@@ -1,0 +1,7 @@
+Execute the /usr/bin/flag
+
+http://153.120.168.36/cgi-bin/
+
+[WAFthrough.tar.gz](https://score.lmt.seccon.jp/files/WAFthrough.a4ef6d4823f6b53831960992926c8f12.tar.gz)
+
+![](https://badge.lifememory.team/badges/32d5123a-b405-46c7-856c-66132c19c035/probe) ![](https://badge.lifememory.team/badges/2f177823-4d32-4cf1-9577-c79edbcf62dc/solve)

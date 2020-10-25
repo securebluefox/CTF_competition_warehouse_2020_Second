@@ -1,0 +1,9 @@
+Simple Key-Value
+
+```
+nc kvdb.chal.seccon.jp 17368
+```
+
+[files](https://score.lmt.seccon.jp/files/kvdb.85e308327e85613e15ca4d10e9eb7f3d.tar.gz)
+
+![](https://badge.lifememory.team/badges/d4208265-5a00-4e81-9e3b-4f0c5dd0d4f9/probe) ![](https://badge.lifememory.team/badges/09cbd01f-caf7-4353-b1d1-f85fa1fcbc60/solve)

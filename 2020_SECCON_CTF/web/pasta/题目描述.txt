@@ -1,0 +1,5 @@
+I made [a simple application with a proxy for authentication](https://pasta01.chal.seccon.jp). What's fantastic is that you can log in to the application from [the another app](https://pasta02.chal.seccon.jp). Enjoy! 
+
+[Hint: source code](https://score.lmt.seccon.jp/files/pasta.380c77e0c87dbabdf7800adc0a8f1286.tar.gz)
+
+pasta01: ![](https://badge.lifememory.team/badges/98e3e71e-18d8-4de5-8929-c6648f717f49/probe) pasta02: ![](https://badge.lifememory.team/badges/a403334c-e74b-43a9-8b23-a6b4adbf5012/probe)

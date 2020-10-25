@@ -1,0 +1,5 @@
+Seems that browser exploitation is becoming an essential skill for pwners lately. Let's see if you meet the standards.
+
+https://attachment.nu1lctf.com/2020/pwn/033868cf6ff18a1d9d903d92bf658e41.tgz
+
+Challenge link

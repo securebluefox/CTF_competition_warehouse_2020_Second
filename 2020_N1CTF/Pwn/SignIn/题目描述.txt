@@ -1,0 +1,5 @@
+nc 47.242.161.199 9990
+
+Due to network reasons, the remote server may be slow, please test locally before attacking the remote
+
+Challenge link

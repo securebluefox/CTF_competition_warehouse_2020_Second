@@ -1,0 +1,9 @@
+Sadly not every developer is well posted in the cutting-edge technologies, so sometimes bizarre interface is driven under the hood.
+
+https://milk.chal.seccon.jp/
+
+[milk.tar.gz](https://score.lmt.seccon.jp/files/milk.d5e98b93a24ebcbbcd51db963170894f.tar.gz)
+
+Update(2020/10/10 17:38): We disclosed a part of our crawler as a hint. [crawl.js](https://score.lmt.seccon.jp/files/crawl.a2e60c8b0e3febf314708b279577701c.js)
+
+![](https://badge.lifememory.team/badges/443cf2ea-f7f8-4a55-9ff9-e9de3ef4b694/probe) ![](https://badge.lifememory.team/badges/03cd3c75-9b09-471d-9e44-d3cdc83d8354/solve)

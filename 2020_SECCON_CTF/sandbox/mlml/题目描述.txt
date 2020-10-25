@@ -1,0 +1,8 @@
+The type system of OCaml is based on Hindley–Milner type system.
+You cannot get out of the type sandbox.
+
+`nc mlml.chal.seccon.jp 30001`
+
+[dist.tar.gz](https://score.lmt.seccon.jp/files/mlml.119488c4b7b10b91e84296e58f0292b7.tar.gz)
+
+![](https://badge.lifememory.team/badges/a3ce326c-72ab-4022-82fa-a28546aa628e/probe)
