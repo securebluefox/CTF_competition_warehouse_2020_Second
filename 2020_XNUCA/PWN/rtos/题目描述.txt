@@ -1,0 +1,1 @@
+arm vexpress-a9 rt-thread rtos pwn stage 1 flag在sd.bin里面<p>nc 123.57.4.93 45559</p>更新附件，请重新下载：<p><a href="https://pan.baidu.com/s/1Gdj0WXr6Ygv0cv4rcSYIeA" target="_blank">附件下载</a> 提取码（GAME）</p><p> 题目去除了pow.py</p>

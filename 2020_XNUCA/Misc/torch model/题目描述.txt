@@ -1,0 +1,1 @@
+<p>Python==3.7.7</p><p>torch==1.5.0</p><p>Crack the torch model and get flag!</p><p>Submission format: `flag{%s}`</p><p><a href="https://pan.baidu.com/s/19IGN9437ZHe77VFevR77Bw" target="_blank">附件下载</a> 提取码（GAME）<a href="https://share.weiyun.com/XrkWs9b7" target="_blank">备用下载</a></p>
